@@ -53,7 +53,7 @@ public class CustomStack {
 
     public static void main(String[] args) {
         CustomStack stack = new CustomStack(5);
-        
+
         // Pushing integers onto the stack
         for (int i = 1; i <= 5; i++) {
             stack.push(i);
